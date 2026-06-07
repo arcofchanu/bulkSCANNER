@@ -48,7 +48,7 @@ trace2/
 
 ## 🔧 How It Works
 
-**Tested for 1,235,583 wallets with default setting (free tier RPC (eg. HELIUS))**
+**Tested for 1,235,583 wallets with default setting free tier RPC *(eg. HELIUS)***
 
 ### Architecture
 
